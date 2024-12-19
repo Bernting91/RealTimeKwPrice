@@ -1,11 +1,11 @@
 # ⚡ Realtime Elpris-Mätare
 
-Ett spännande projekt som mäter elpriser i realtid och erbjuder en modern arkitektur för att hantera data och användare. Här är en snabb överblick av funktionerna och teknologierna:
+Ett spännande grupprojekt som mäter elpriser i realtid och erbjuder en modern arkitektur för att hantera data och användare. Här är en snabb överblick av funktionerna och teknologierna:
 
 ## 🚀 Funktioner
 - 🔍 **Mätning av elpriser i realtid** genom att hämta data från ett externt API.
 - 👥 **Rollbaserad autentisering och auktorisering** för att säkerställa säker och kontrollerad åtkomst.
-- 🏗️ **CQRS-arkitektur** för att separera läs- och skrivoperationer.
+- 🏗️ **Clean-arkitektur** för att göra applikationen skalbar och lätt att läsa.
 - 🗂️ **Entity Framework Core** för datamodellering och databashantering.
 - 🔒 **Identity-system** för hantering av användare, roller och autentisering.
 
@@ -16,8 +16,7 @@ Ett spännande projekt som mäter elpriser i realtid och erbjuder en modern arki
 - 🔐 **Identity Framework** för användarhantering och säkerhet.
 
 ## 🌟 Kommande Funktioner
-- 📊 Visuella grafer för elprisutveckling över tid.
-- 🛡️ Fler säkerhetsfunktioner som 2FA (tvåfaktorsautentisering).
+- 📊 Visuella grafer för elprisutveckling över tid. 
 - 🌍 Möjlighet att anpassa efter olika regioners elmarknadsdata.
 
 ---
